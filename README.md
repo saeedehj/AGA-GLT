@@ -1,1 +1,1 @@
-# Feature-Guided Graph Lottery Tickets: Differentiable Joint Sparsification with Gradient Alignment
+# AGA-GLT: Adaptive Gradient Alignment for Differentiable \\ Graph Lottery Ticket Sparsification
